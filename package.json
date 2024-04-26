@@ -1,12 +1,12 @@
 {
   "name": "@firanorg/bookish-broccoli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
   "license": "MIT",
   "dependencies": {
-    "@firanorg/scaling-goggles": "^1.0.2"
+    "@firanorg/scaling-goggles": "^1.0.3"
   },
   "keywords": [
     "extra",
