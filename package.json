@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/bookish-broccoli",
-  "version": "1.2.46",
+  "version": "1.2.47",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -514,5 +514,5 @@
   "bugs": {
     "url": "https://github.com/firanorg/bookish-broccoli/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
